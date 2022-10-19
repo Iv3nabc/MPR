@@ -1,11 +1,6 @@
-# MPRn_Tugas1_nim
-### Nama
-### Nim
-### MPR n
+# MPR3_Tugas1_191401084
+### Ivan Joshua
+### 191401084
+### MPR 3
 
-#### Buatlah aplikasi android yang memiliki: 
-- Button, 
-- Textview, 
-- EditText.
-
-> Screenshot tampilan dimasukkan dalam readme
+![alt text](https://github.com/Iv3nabc/MPR/blob/master/Tugas1/MPR3_TUGAS1_191401084.png)
